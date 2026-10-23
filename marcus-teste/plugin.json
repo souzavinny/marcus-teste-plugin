@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "marcus-teste",
+  "version": "1.0.0",
+  "description": "marcus-teste: plugin de teste, uma skill e um MCP remoto.",
+  "author": { "name": "Marcus" },
+  "license": "MIT"
+}
